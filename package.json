@@ -1,0 +1,15 @@
+{
+    "name": "kidden-website-node",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "eslint": "^9.27.0"
+    }
+}
